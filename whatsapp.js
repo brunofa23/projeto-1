@@ -1,1 +1,1 @@
-const var = "test conflict"
+const var = "test conflict xxxxx"
